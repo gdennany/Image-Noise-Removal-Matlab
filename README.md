@@ -1,0 +1,2 @@
+# Image-Noise-Removal-Matlab
+My summer of 2019 work. I was a research assistant for an atmospheric sciences professor who had gathered over 30k spectral data sets. There was a faulty piece of equipment that caused noise spikes on the images, and was inhibiting any further analysis of the data. My job was to locate and remove the noise spikes, and then fill in the removed noise with logical data based on its surroundings
