@@ -1,2 +1,3 @@
 # Image-Noise-Removal-Matlab
-My summer of 2019 work. I was a research assistant for an atmospheric sciences professor who had gathered over 30k spectral data sets. There was a faulty piece of equipment that caused noise spikes on all of the images, and these spikes were inhibiting any further analysis of the data. My job was to locate and remove the noise spikes, and then fill in the removed noise with logical data based on its surroundings
+
+My summer of 2019 work for Professor Tanamachi from Purdue University. She had collected over 30K spectral data sets that had noise spikes in them due to an unknown faulty power generator in the radar. My task was to create an algorithm that could automatically locate and remove the noise spikes and then fill in the removed spikes with logical data using its surrounding data points.
