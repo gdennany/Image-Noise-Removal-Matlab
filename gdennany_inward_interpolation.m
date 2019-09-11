@@ -3,9 +3,9 @@ function [output] = gdennany_inward_interpolation(output_after_inpaint)
 %%%%%%%%%
 % Call this function after using chans inpainting method once. The removed 
 % noise blobs (from gdennany_first_etc) may be too large for chans
-% inpainting method to completely fille them in. So, there may still a few
-% large holes in the image. To resolve this, this function will take the
-% inpainted image, resolve to to half resolution (resize image to 1/2
+% inpainting method to completely fill them in. So, there may still a few
+% large holes in the image. To resolve this this function will take the
+% inpainted image, resolve it to half resolution (resize image to 1/2
 % original size), then use inward interpolation to fill in the holes in
 % the half sized image. After this, it resizes the image to original size,
 % and outputs this interpolated full size image
