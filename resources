@@ -1,0 +1,14 @@
+1. Laplacian and other filters used info: 
+  - https://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm#targetText=The%20Laplacian%20is%20a%202,spatial%20derivative%20of%20an%20image.&targetText=The%20Laplacian%20is%20often%20applied,will%20be%20described%20together%20here.
+  - http://www.cse.psu.edu/~rtc12/CSE486/lecture11_6pp.pdf
+  - https://homepages.inf.ed.ac.uk/rbf/HIPR2/gsmooth.htm
+  - https://homepages.inf.ed.ac.uk/rbf/HIPR2/median.htm
+  - https://en.wikipedia.org/wiki/Kernel_(image_processing)#targetText=In%20image%20processing%2C%20a%20kernel,a%20kernel%20and%20an%20image.
+
+2. Inward Interpolation
+  - https://www.mathworks.com/help/images/ref/regionfill.html
+ 
+3. These explain what inward interpolation is doing pretty well
+  - https://pdf.sciencedirectassets.com/277348/1-s2.0-S1875389211X00147/1-s2.0-S1875389211006717/main.pdf?X-Amz-Security-Token=AgoJb3JpZ2luX2VjENf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQC1%2FFLRdlYAK%2BOdZHdD3qcyQUTdNLwgf3Am%2FnLucPy2WgIhAMpVx5nfAuRPUaR14b0FbzOkVnvBJ8H%2BDLI0NtHUNlb9KuMDCMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAhoMMDU5MDAzNTQ2ODY1IgxqrIF0mpD7erE2CJsqtwMar0RsWWn8KP4xBDQZV8RwbsYZ%2Bb%2FRdDLqT%2BdpZ5ohIkzHYEjBqm5%2BJLeAmY%2FQ0SrdtKQGjzAu2dMNPoZy1YGvAePPbIRTJqxc28BWvTPgMnv7JxWDzbbv%2B9CFHahJ%2BP%2FyXEGYfnE1LdV7H3M6ZPKzlIaoAZjopvwygLsjXDcEi9BOe0SaBYbGp70nGJWjSSRMXFyIHIXWozGx0U%2Bulbi7%2FgxDXSQnNOYJfxbTRtDRjTTIuX6DSpgiCkbAI89pG59svdpbIvMmn5zerp7kniaIKhSupMO4vEG%2FSQT6ZOCd4RhDP6I%2BlaGI%2F5QMuYT3aZ7iDDYbihyI7LcmBlBHzkcyzqIsUDKDPql%2FZcKr60fSwnwbDML4PHfoXAJMMejjzMyDmzGDQhZ%2BfBjafzhkVUmQNLAHp5GbpY6ONdMMnGzWiJUuZON%2Bi9%2B8GOENFB2GHbxKlDZYG7hxtCx7e5JgnRAXTL8p5APrK6qNshLE8J%2B5eEA3qi1OHuYf57riOgMu9xtpwjHcGqO9QtcmQ7StH7s4qRH7abRY4UDCi4DyjrL5gBMVA3WIg0yDhELD%2Fx%2F%2FjGMc4BAvWMlTMNiM%2FewFOrMBDxGss8sRlPi02G2reSMaB2YCkZdEN%2FEkQN0NdVGmNnFzLHozmSRxOSJjcaklcgeHZIKu3yuPl6lJl3hP%2BxEn7BCH5dcZAwBITTBL6v6Z6s6FA9ERl8EewU1%2BtaTNkvDpYx%2BefrgJpKsu81ClqfIvgIAjx1MJIuJSWWbPqaFj0skcxWF4hg%2BaHKz1GHXIHLxvCJzdUvbNv5JfKhROH79qlpqNhhwDMsOtSFoqdOJkqj8fOwI%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191010T160055Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXWQDBCN6%2F20191010%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=bf100d641da43bd09e71457507a0465b9866fb2bfabfc9a23f26322a9860b309&hash=b6900c862965042712de5a4b1fde5536c6c200c74db47e08b1d97316cf5803b5&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1875389211006717&tid=spdf-49ef6550-c5e8-4b63-b084-a708fec87193&sid=82c5396c11a3634cf80a8d92458dec9106b0gxrqb&type=client
+  - https://en.wikipedia.org/wiki/Inpainting#targetText=Inpainting%20is%20the%20process%20of,art%20conservator%20or%20art%20restorer.
+  
