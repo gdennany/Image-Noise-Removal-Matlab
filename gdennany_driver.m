@@ -102,7 +102,7 @@ if method == 1              %data set with all negative values
         end
     end
     output = medfilt2(output);    
-else %method == 2           %data set with positive an negative values
+else %method == 2           %data set with positive and negative values
     for row = 1 : numRows
         for column = 1 : numColumns
             output(row,column) = ((output(row,column) - .5) * 100);
